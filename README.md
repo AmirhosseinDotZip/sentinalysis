@@ -28,8 +28,8 @@ To run the notebooks, you will need to install the required libraries. You can d
 ```
 pip install -r requirements.txt
 ```
+<sub>Use the latest python version</sub>
 
-Then, simply open the desired notebook and follow the instructions.
 
 ## Contributing
 Contributions are welcome! If you would like to contribute to this project, please create a pull request with your changes.
