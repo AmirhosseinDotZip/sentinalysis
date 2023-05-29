@@ -30,6 +30,15 @@ pip install -r requirements.txt
 ```
 <sub>Use the latest python version</sub>
 
+## Example
+
+```python
+analyzer = SentimentIntensityAnalyzer()
+for sentence in sentences:
+    vs = analyzer.polarity_scores(sentence)
+    print("{:-<65} {}".format(sentence, str(vs)))
+```
+
 
 ## Contributing
 Contributions are welcome! If you would like to contribute to this project, please create a pull request with your changes.
