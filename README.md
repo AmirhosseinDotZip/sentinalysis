@@ -12,8 +12,10 @@
 Sentilalysis is a collection of Jupyter notebooks that use popular sentiment analysis Python libraries to analyze text. The goal of this project is to provide a simple and accessible way to perform sentiment analysis using different tools and compare the results.
 
 ## Libraries used
-- [vaderSentiment](https://github.com/cjhutto/vaderSentiment)
-- [textblob](https://textblob.readthedocs.io/en/dev/)
+- [vaderSentiment](https://github.com/cjhutto/vaderSentiment) ([open in colab](https://colab.research.google.com/drive/174X_S5SLDQNAFffOvQKYzVIY8dLRIHD_?usp=sharing))
+- [textblob](https://textblob.readthedocs.io/en/dev/) ([open in colab](https://colab.research.google.com/drive/1fSb6gny8RlqcpaCWNDZjrN3HYFlO2dE9?usp=sharing))
+
+- [flair](https://github.com/flairNLP/flair) ([open in colab](https://colab.research.google.com/drive/1IIk1DtElZoQZTodhH40-k9fQ_lOLGuGG?usp=sharing))
 
 ## Usage
 To run the notebooks, you will need to install the required libraries. You can do this by running the following command:
@@ -26,6 +28,9 @@ Then, simply open the desired notebook and follow the instructions.
 
 ## Contributing
 Contributions are welcome! If you would like to contribute to this project, please create a pull request with your changes.
+
+## External Resources
+- [Sentiment analysis with bert, on colab](https://colab.research.google.com/drive/1PHv-IRLPCtv7oTcIGbsgZHqrB5LPvB7S)
 
 ## License
 This project is licensed under the terms of the [BANI license](LICENSE).
