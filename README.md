@@ -12,12 +12,20 @@
 Sentilalysis is a collection of Jupyter notebooks that use popular sentiment analysis Python libraries to analyze text. The goal of this project is to provide a simple and accessible way to perform sentiment analysis using different tools and compare the results.
 
 ## Libraries used
-- [vaderSentiment](https://github.com/cjhutto/vaderSentiment) ([open in colab](https://colab.research.google.com/drive/174X_S5SLDQNAFffOvQKYzVIY8dLRIHD_?usp=sharing)) [![Open In Colab](https://img.shields.io/badge/Open%20in-Colab-orange.svg)](https://colab.research.google.com/drive/174X_S5SLDQNAFffOvQKYzVIY8dLRIHD_?usp=sharing)
+- [vaderSentiment](https://github.com/cjhutto/vaderSentiment) [![Open In Colab](https://img.shields.io/badge/Open%20in-Colab-orange.svg)](https://colab.research.google.com/drive/174X_S5SLDQNAFffOvQKYzVIY8dLRIHD_?usp=sharing)
 
-- [textblob](https://textblob.readthedocs.io/en/dev/) ([open in colab](https://colab.research.google.com/drive/1fSb6gny8RlqcpaCWNDZjrN3HYFlO2dE9?usp=sharing)) [![Open In Colab](https://img.shields.io/badge/Open%20in-Colab-orange.svg)](https://colab.research.google.com/drive/1fSb6gny8RlqcpaCWNDZjrN3HYFlO2dE9?usp=sharing)
+- [textblob](https://textblob.readthedocs.io/en/dev/) [![Open In Colab](https://img.shields.io/badge/Open%20in-Colab-orange.svg)](https://colab.research.google.com/drive/1fSb6gny8RlqcpaCWNDZjrN3HYFlO2dE9?usp=sharing)
 
 
-- [flair](https://github.com/flairNLP/flair) ([open in colab](https://colab.research.google.com/drive/1IIk1DtElZoQZTodhH40-k9fQ_lOLGuGG?usp=sharing)) [![Open In Colab](https://img.shields.io/badge/Open%20in-Colab-orange.svg)](https://colab.research.google.com/drive/1IIk1DtElZoQZTodhH40-k9fQ_lOLGuGG?usp=sharing)
+- [flair](https://github.com/flairNLP/flair)  [![Open In Colab](https://img.shields.io/badge/Open%20in-Colab-orange.svg)](https://colab.research.google.com/drive/1IIk1DtElZoQZTodhH40-k9fQ_lOLGuGG?usp=sharing)
+
+
+
+| Library | Description | Colab Notebook |
+| --- | --- | --- |
+| [vaderSentiment](https://github.com/cjhutto/vaderSentiment) | A Python library for sentiment analysis | [![Open In Colab](https://img.shields.io/badge/Open%20in-Colab-orange.svg)](https://colab.research.google.com/drive/174X_S5SLDQNAFffOvQKYzVIY8dLRIHD_?usp=sharing) |
+| [textblob](https://textblob.readthedocs.io/en/dev/) | A Python library for processing textual data | [![Open In Colab](https://img.shields.io/badge/Open%20in-Colab-orange.svg)](https://colab.research.google.com/drive/1fSb6gny8RlqcpaCWNDZjrN3HYFlO2dE9?usp=sharing) |
+| [flair](https://github.com/flairNLP/flair) | A Python library for NLP tasks such as named entity recognition | [![Open In Colab](https://img.shields.io/badge/Open%20in-Colab-orange.svg)](https://colab.research.google.com/drive/1IIk1DtElZoQZTodhH40-k9fQ_lOLGuGG?usp=sharing) |
 
 
 ## Usage
