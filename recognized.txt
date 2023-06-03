@@ -1,0 +1,23 @@
+a
+
+1 const options =
+
+2 arrowParens: ‘avoid’
+3 singleQuote: true
+
+4 bracketSpacing: true
+5 endOfLine: ‘1f'
+
+6 semi: false
+
+7 tabWidth: 2
+
+8  trailingComma: ‘none’
+9
+10
+
+1 exports options
+
+Par a ie a)
+
+
